@@ -1,6 +1,7 @@
 # The Strands of Life
+by Joseph Izatt
 
-## Visual experiment on the structure of natural objects
+### A visual experiment on the structure of natural objects
 
 Made using Three.JS
 
