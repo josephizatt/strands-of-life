@@ -1,5 +1,4 @@
 # The Strands of Life
-by Joseph Izatt
 
 ### A visual experiment on the structure of natural objects
 
